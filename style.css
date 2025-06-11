@@ -13,7 +13,7 @@ body {
 header {
     background-color: #333; /* 푸터와 동일한 어두운 회색 배경색 */
     color: white; /* 흰색 글자색 */
-    padding: 5px 0; /* 상하 패딩을 픽셀(px) 단위로 설정하여 절대적인 높이를 조절합니다. */
+    padding: 2.5px 0; /* 상하 패딩을 5px에서 2.5px로 줄여 헤더 높이를 반으로 감소시켰습니다. */
     text-align: center; /* 가운데 정렬 */
 }
 
