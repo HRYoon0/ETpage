@@ -13,7 +13,7 @@
 
 ## 🖼️ 파일 공유
 
-* [2024년 운동회 사진 모음 (PDF)](https://drive.google.com/file/d/1aNF6truSYoSTRSo0A47nvI5e4h7kT1G9/export=download)
+* [2024년 운동회 사진 모음 (PDF)](https://drive.google.com/uc?export=download&id=1aNF6truSYoSTRSo0A47nvI5e4h7kT1G9)
 * [가을 현장체험학습 사진 (ZIP 파일)](./files/autumn_field_trip.zip)
 
 ## 📝 공지사항
