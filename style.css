@@ -11,9 +11,9 @@ body {
 
 /* 웹페이지 상단 헤더 부분 스타일 */
 header {
-    background-color: #FFB6C1; /* 연핑크 배경색 (LightPink) */
-    color: #333333; /* 짙은 회색 글자색 (연핑크 배경에 잘 보입니다) */
-    padding: 0.25em 0; /* 상하 패딩을 1em에서 0.25em으로 줄여 헤더 높이를 기존 대비 1/4로 감소시켰습니다. */
+    background-color: #333; /* 푸터와 동일한 어두운 회색 배경색으로 변경했습니다. */
+    color: white; /* 흰색 글자색으로 변경했습니다. */
+    padding: 0.25em 0; /* 상하 패딩 (유지) */
     text-align: center; /* 가운데 정렬 */
 }
 
