@@ -13,7 +13,7 @@ body {
 header {
     background-color: #FFB6C1; /* 연핑크 배경색 (LightPink) */
     color: #333333; /* 짙은 회색 글자색 (연핑크 배경에 잘 보입니다) */
-    padding: 1em 0; /* 상하 패딩 */
+    padding: 0.5em 0; /* 상하 패딩을 1em에서 0.5em으로 줄여 헤더 높이를 감소시켰습니다. */
     text-align: center; /* 가운데 정렬 */
 }
 
