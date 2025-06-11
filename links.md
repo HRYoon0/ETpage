@@ -18,9 +18,3 @@
 
 ## ✔️ Apps Script 공유
 * [Word Test 통합 배포용](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
-
-## 📝 연락처
-
-*  tmdsh2000@naver.com
-
-궁금한 점이 있으시면 언제든 문의해주세요.
