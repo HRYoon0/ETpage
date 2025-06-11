@@ -11,9 +11,9 @@
 * [스크래치(Scratch)](https://scratch.mit.edu/) - MIT에서 개발한 블록 코딩 도구
 * [국립과천과학관](https://www.sciencecenter.go.kr/scipia/) - 과학 교육 및 체험 자료
 
-## 🖼️ 학교 행사 사진
+## 🖼️ 파일 공유
 
-* [2024년 운동회 사진 모음 (PDF)](./files/2024_sports_day.pdf)
+* [2024년 운동회 사진 모음 (PDF)](https://drive.google.com/file/d/1x9S24ZDT1dSW4B9wH9IvzRhsLhUIcBCX/view?usp=drive_link)
 * [가을 현장체험학습 사진 (ZIP 파일)](./files/autumn_field_trip.zip)
 
 ## 📝 공지사항
