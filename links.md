@@ -2,22 +2,25 @@
 
 이곳은 제가 공유하고 싶은 유용한 정보와 자료들을 모아두는 공간입니다.
 
-## 📚 유용한 AI 자료 링크
+## ✅ 유용한 AI 자료 링크
 
-* [EBS 온라인 클래스](https://www.ebs.co.kr/onlineClass) - 온라인 학습 자료
-* [NEIS 대국민 서비스](https://hes.sen.go.kr/index.do) - 교육 행정 정보
-* [엔트리(Entry)](https://playentry.org/) - 블록 기반 코딩 학습 플랫폼
-* [스크래치(Scratch)](https://scratch.mit.edu/) - MIT에서 개발한 블록 코딩 도구
-* [국립과천과학관](https://www.sciencecenter.go.kr/scipia/) - 과학 교육 및 체험 자료
+* [AI 활용법](https://www.youtube.com/watch?v=rSS5yM74zeo) - 스탠포드가 가르치는 AI시대 창의력 훈련법
+* [10분만에 앱 완](https://www.youtube.com/watch?v=vCMYu2T5B4c&list=PL99jFyvC3Hgs5lzfUUGjHmkJBpktlMxVy&index=5) - 오빠두엑셀 앱 만들기 영상
+
+## ✨ 유용한 AI 자료 링크
+* [GEMINI](https://gemini.google.com/app?hl=ko) - 무료로 강력한 기능 제공
+* [claude](https://claude.ai/new) - 코딩과 글쓰기에 강함
+* [canva AI](https://www.canva.com/ai) - 웹페이지, 프레젠테이션 등 업무 및 수업에 필요한 다양한 코딩을 쉽게 가능
 
 ## 🖼️ 파일 공유
 
-* [2024년 운동회 사진 모음 (PDF)](https://drive.google.com/uc?export=download&id=1aNF6truSYoSTRSo0A47nvI5e4h7kT1G9)
-* [가을 현장체험학습 사진 (ZIP 파일)](./files/autumn_field_trip.zip)
+* [연수 도우미 v2)](https://drive.google.com/uc?export=download&id=1XgNlCAJIc3_v3NxFut1KoYy6Mhf3_1mO)
 
-## 📝 공지사항
+## ✔️ 앱스크립 공유
+* [Word Test 통합 배포용)](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
 
-* 2025년 3월 10일: 새 학년 준비물 안내
-* 2025년 3월 15일: 학부모 총회 안내 (링크 추후 업데이트 예정)
+## 📝 연락처
+
+*  tmdsh2000@naver.com
 
 궁금한 점이 있으시면 언제든 문의해주세요.
