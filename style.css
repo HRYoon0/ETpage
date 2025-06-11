@@ -47,10 +47,9 @@ main {
 
 footer {
     text-align: center;
-    padding: 0.5em 0; /* 푸터 패딩 조정 */
+    padding: 0.25em 0; /* 푸터 상하 패딩을 0.5em에서 0.25em으로 줄였습니다. */
     background-color: #333;
     color: white;
-    /* margin-top: 20px; (제거됨) */
 }
 
 main a {
