@@ -14,10 +14,10 @@
 
 ## 🖼️ 파일 공유
 
-* [연수 도우미 v2)](https://drive.google.com/uc?export=download&id=1XgNlCAJIc3_v3NxFut1KoYy6Mhf3_1mO)
+* [연수 도우미 v2](https://drive.google.com/uc?export=download&id=1XgNlCAJIc3_v3NxFut1KoYy6Mhf3_1mO)
 
 ## ✔️ 앱스크립 공유
-* [Word Test 통합 배포용)](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
+* [Word Test 통합 배포용](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
 
 ## 📝 연락처
 
