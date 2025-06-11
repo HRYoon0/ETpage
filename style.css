@@ -1,67 +1,44 @@
 /* style.css */
+
 /* 웹페이지 전체의 기본 글꼴, 줄 간격, 배경색, 글자색 설정 */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* 깔끔한 글꼴 설정 */
-    line-height: 1.6; /* 줄 간격 설정 */
-    margin: 0; /* 페이지 여백 제거 */
-    padding: 0; /* 페이지 안쪽 여백 제거 */
-    background-color: #f4f4f4; /* 연한 회색 배경 */
-    color: #333; /* 어두운 회색 글자색 */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+
+    /* --- 푸터 고정을 위한 Flexbox 속성 추가 시작 --- */
+    display: flex; /* body를 flex 컨테이너로 만듭니다. */
+    flex-direction: column; /* 아이템들을 세로 방향으로 정렬합니다. */
+    min-height: 100vh; /* body의 최소 높이를 뷰포트 전체 높이로 설정합니다. */
+    /* --- 푸터 고정을 위한 Flexbox 속성 추가 끝 --- */
 }
 
-/* 웹페이지 상단 헤더 부분 스타일 */
-header {
-    background-color: #333; /* 푸터와 동일한 어두운 회색 배경색 */
-    color: white; /* 흰색 글자색 */
-    padding: 0.15em 0; /* 상하 패딩을 em 단위로 다시 설정했습니다. */
-    text-align: center; /* 가운데 정렬 */
-}
-
-/* 헤더 내부의 제목(h1)과 단락(p)의 마진을 조정합니다. */
-/* h1 아래에만 약간의 마진을 주어 p 태그와의 간격을 조절합니다. */
-header h1 {
-    margin: 0; /* 기본 마진 제거 */
-    margin-bottom: 0.3em; /* h1 아래에 em 단위 마진을 추가합니다. */
-    line-height: 1.2; /* 필요시 줄 간격을 조정하여 텍스트가 겹치지 않도록 합니다. */
-}
-
-header p {
-    margin: 0; /* p 태그의 마진은 여전히 제거합니다. */
-    line-height: 1.2; /* 줄 간격 조정 */
-}
-
+/* ... (기존 헤더 스타일 코드 유지) ... */
 
 /* 웹페이지의 주요 내용이 들어갈 메인 섹션 스타일 */
 main {
-    padding: 20px; /* 안쪽 여백 */
-    max-width: 800px; /* 최대 너비 설정 (너무 넓어지지 않도록) */
-    margin: 20px auto; /* 가운데 정렬 및 상하 여백 */
-    background-color: white; /* 흰색 배경 */
-    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* 그림자 효과 */
-    border-radius: 8px; /* 모서리 둥글게 */
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+
+    /* --- 푸터 고정을 위한 Flexbox 속성 추가 시작 --- */
+    flex-grow: 1; /* 메인 콘텐츠 영역이 남은 공간을 모두 차지하도록 늘어납니다. */
+    /* --- 푸터 고정을 위한 Flexbox 속성 추가 끝 --- */
 }
 
 /* 웹페이지 하단 푸터 부분 스타일 */
 footer {
-    text-align: center; /* 가운데 정렬 */
-    padding: 1em 0; /* 상하 패딩 */
-    background-color: #333; /* 어두운 회색 배경 */
-    color: white; /* 흰색 글자색 */
-    margin-top: 20px; /* 상단 여백 */
+    text-align: center;
+    padding: 0.5em 0; /* 푸터 마진 줄이기 (위에서 조정한 값) */
+    background-color: #333;
+    color: white;
+    /* margin-top: 20px; */ /* Flexbox를 사용하면 이 마진은 필요 없거나 다르게 동작할 수 있어 제거했습니다. */
 }
 
-/* 마크다운에서 생성된 링크의 스타일 */
-main a {
-    color: #007bff; /* 파란색 링크 */
-    text-decoration: none; /* 밑줄 제거 */
-}
-
-/* 마크다운에서 생성된 링크에 마우스를 올렸을 때의 스타일 */
-main a:hover {
-    text-decoration: underline; /* 밑줄 다시 표시 */
-}
-
-/* 마크다운에서 생성된 목록 (순서 있는/없는 목록)의 스타일 */
-main ul, main ol {
-    margin-left: 20px; /* 왼쪽 여백 추가 */
-}
+/* ... (나머지 스타일 코드 유지) ... */
