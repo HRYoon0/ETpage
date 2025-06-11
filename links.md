@@ -5,7 +5,7 @@
 ## ✅ 유용한 AI 자료 링크
 
 * [AI 활용법](https://www.youtube.com/watch?v=rSS5yM74zeo) - 스탠포드가 가르치는 AI시대 창의력 훈련법
-* [10분만에 앱 완](https://www.youtube.com/watch?v=vCMYu2T5B4c&list=PL99jFyvC3Hgs5lzfUUGjHmkJBpktlMxVy&index=5) - 오빠두엑셀 앱 만들기 영상
+* [10분만에 앱 완성](https://www.youtube.com/watch?v=vCMYu2T5B4c&list=PL99jFyvC3Hgs5lzfUUGjHmkJBpktlMxVy&index=5) - 오빠두엑셀 앱 만들기 영상
 
 ## ✨ 유용한 AI 자료 링크
 * [Gemini](https://gemini.google.com/app?hl=ko) - 무료로 강력한 기능 제공
