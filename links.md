@@ -21,3 +21,6 @@
 
 ## 👍 Gemini 저장된 정보 공유
 * [Gemini 저장된 정보 예시](https://docs.google.com/document/d/1TcpwJjVfzuDC3_ok_bExmk6HwXzuDdsr1bQnrsgwC5g/edit?usp=sharing)
+
+## 🌈 제가 만든 크롬 확장프로그램 공유
+* [나만의 날씨 알리미](https://chromewebstore.google.com/detail/bogpomaldlgcfpkjlfckgglicbgdcaof?utm_source=item-share-cb)
