@@ -18,3 +18,6 @@
 
 ## ✔️ Apps Script 공유
 * [Word Test 통합 배포용](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
+
+## 👍 Gemini 저장된 정보 공유
+* [Gemini 저장된 정보 예시](https://docs.google.com/document/d/1TcpwJjVfzuDC3_ok_bExmk6HwXzuDdsr1bQnrsgwC5g/edit?usp=sharing)
