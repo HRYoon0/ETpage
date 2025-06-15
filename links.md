@@ -20,7 +20,7 @@
 
 ## ✔️ Apps Script 공유
 * [Word Test 통합 배포용](https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing) - 구글 폼 쪽지시험 자동 정리 툴
-* [AI 문제 생성](https://script.google.com/macros/s/AKfycbyfKtHf32pqbwsl8Z3LfxWKeE6OTIK1k7SFXM-G7bsvCXz90S51wER-cgghwcbA7vZqdQ/exec) - pdf 문제 파일 업로드 후 비슷한 유형 문제 만들기 툴
+* [AI 문제 생성](https://script.google.com/macros/s/AKfycbzeTfjtZm-o2gR9skZtgy0T6NXfxTKIi0cIjtxTh9FVjCVaXqiKy3yIjefjOgX_LA1NMA/exec) - pdf 문제 파일 업로드 후 비슷한 유형 문제 만들기 툴
 
 
 ## 👍 Gemini 저장된 정보 공유
