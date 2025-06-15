@@ -11,6 +11,8 @@
 * [Gemini](https://gemini.google.com/app?hl=ko) - 무료로 강력한 기능 제공
 * [claude](https://claude.ai/new) - 코딩과 글쓰기에 강함
 * [canva AI](https://www.canva.com/ai) - 웹페이지, 프레젠테이션 등 업무 및 수업에 필요한 다양한 코딩을 쉽게 가능
+* [NotebookLM](https://notebooklm.google/) - 다양한 자료를 넣고 분석 및 팟캐스트 만들기 등 다양한 기능 제공, 학습 및 연구에 탁월
+
 
 ## 🖼️ 파일 공유
 
