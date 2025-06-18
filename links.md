@@ -15,7 +15,7 @@
 * [Google AI Studio](https://aistudio.google.com/) - 무료로 Gemini 활용 가능, Google이 제공하는 Gemini API 관리(무료, 사용량에 제한)
 
 ## 📑 코딩에 유용한 사이트 링크
-* [GitHub](https://github.com/) - 코딩으로 만들어진 html 등 웹 페이지 파일을 업로드하여 별도의 도메인없이 다른 사람들에게 배포 가능한 사이트
+* [GitHub](https://github.com/) - html 등 웹 페이지 파일을 업로드하여 별도의 도메인없이 다른 사람들에게 배포 가능한 사이트
 * [주이즈](https://joo.is/) - 짧은 링크, 파일 링크, qr 코드 생성 등 다양한 기능 제공 joo.is/XXXXX 형태의 짧은 링크 가능
 
 ## 🖼️ 파일 공유
