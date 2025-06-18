@@ -12,6 +12,7 @@
 * [claude](https://claude.ai/new) - 코딩과 글쓰기에 강함
 * [canva AI](https://www.canva.com/ai) - 웹페이지, 프레젠테이션 등 업무 및 수업에 필요한 다양한 코딩을 쉽게 가능
 * [NotebookLM](https://notebooklm.google/) - 다양한 자료를 넣고 분석 및 팟캐스트 만들기 등 다양한 기능 제공, 학습 및 연구에 탁월
+* [Google AI Studio](https://aistudio.google.com/) - 무료로 Gemini 활용 가능, Google이 제공하는 Gemini API 관리(무료, 사용량에 제한)
 
 ## 📑 코딩에 유용한 사이트 링크
 * [GitHub](https://github.com/) - 코딩으로 만들어진 html 등 웹 페이지 파일을 업로드하여 별도의 도메인없이 다른 사람들에게 배포 가능한 사이트
