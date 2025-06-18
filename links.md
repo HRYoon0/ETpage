@@ -17,7 +17,7 @@
 ## 📑 코딩에 유용한 사이트 링크
 * <a href="https://github.com/" target="_blank">GitHub</a> - html 등 웹 페이지 파일을 업로드하여 별도의 도메인없이 다른 사람들에게 배포 가능한 사이트
 * <a href="https://joo.is/" target="_blank">주이즈</a> - 짧은 링크, 파일 링크, qr 코드 생성 등 다양한 기능 제공 joo.is/XXXXX 형태의 짧은 링크 가능
-* <a href="https://youtu.be/3VG2OgkRJK0" target="_blank">🎦샌드위치 코딩 유튜브 영상</a> - 언플러그드 코딩, 실제 코딩 수업 전 실습해보면 좋음
+* <a href="https://youtu.be/3VG2OgkRJK0" target="_blank">🎦샌드위치 코딩</a> - 언플러그드 코딩, 실제 코딩 수업 전 실습해보면 좋음
 
 ## 🖼️ 파일 공유
 * <a href="https://drive.google.com/uc?export=download&id=1XgNlCAJIc3_v3NxFut1KoYy6Mhf3_1mO" target="_blank">연수 도우미 v2</a>
