@@ -2,7 +2,7 @@
 
 이곳은 제가 공유하고 싶은 유용한 정보와 자료들을 모아두는 공간입니다.
 
-## ✅ 유용한 AI 자료 링크
+## ✅ 유용한 AI 유튜브 자료 링크
 
 * <a href="https://www.youtube.com/watch?v=rSS5yM74zeo" target="_blank">AI 활용법</a> - 스탠포드가 가르치는 AI시대 창의력 훈련법
 * <a href="https://www.youtube.com/watch?v=vCMYu2T5B4c&list=PL99jFyvC3Hgs5lzfUUGjHmkJBpktlMxVy&index=5" target="_blank">10분만에 앱 완성</a> - 오빠두엑셀 앱 만들기 영상
