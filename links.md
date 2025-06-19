@@ -21,7 +21,7 @@
 
 ## 🖼️ 파일 공유
 * <a href="https://drive.google.com/uc?export=download&id=1XgNlCAJIc3_v3NxFut1KoYy6Mhf3_1mO" target="_blank">연수 도우미 v2</a>
-* <a href="https://drive.google.com/file/d/19krxwrLph1LBStldYLszBIawlkmh4FB7/view?usp=sharing" target="_blank">6. 19. 바이브 코딩 강의 자료</a>
+* <a href="https://drive.google.com/file/d/19krxwrLph1LBStldYLszBIawlkmh4FB7/view?usp=sharing" target="_blank">6. 19. 바이브 코딩 나눔 자료</a>
 
 ## ✔️ Apps Script 공유
 * <a href="https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing" target="_blank">Word Test 통합 배포용</a> - 구글 폼 쪽지시험 자동 정리 툴
