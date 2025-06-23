@@ -26,6 +26,7 @@
 ## ✔️ Apps Script 공유
 * <a href="https://docs.google.com/spreadsheets/d/1lryop7VP9AFLVoTQ4HuS0iDmQpBMVkZyYUTC-MrDsaY/copy?usp=sharing" target="_blank">Word Test 통합 배포용</a> - 구글 폼 쪽지시험 자동 정리 툴
 * <a href="https://script.google.com/macros/s/AKfycbzMEg_B8f2du_C-Ye_FTghbfEB7HNgNRJvm91_tD07AO-Lhh8ICaqvDgxPH8Bolrn8MNA/exec" target="_blank">AI 문제 생성기 v2</a> - pdf 문제 파일 업로드 후 비슷한 유형 문제 만들기 툴
+* <a href="https://script.google.com/macros/s/AKfycby57lHMIBficCaN4Ij2XXswIUicFRIVX57OTkpWy0KhTm7LHoDkvQAXoMjGPvgewcTTPA/exec" target="_blank">AI 평어 생성기</a> - 성취기준과 핵심 평가 요소에 맞게 평어 생성
 
 ## 👍 Gemini 저장된 정보 공유
 * <a href="https://docs.google.com/document/d/1TcpwJjVfzuDC3_ok_bExmk6HwXzuDdsr1bQnrsgwC5g/edit?usp=sharing" target="_blank">Gemini 저장된 정보 예시</a>
